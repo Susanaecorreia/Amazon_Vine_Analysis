@@ -13,7 +13,7 @@ How many Vine reviews and non-Vine reviews were there?
 - Total Vine Reviews: 543
 - Total non-Vine Reviews: 112803
 
-https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/TotalReviews.png
+![alt text](https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/TotalReviews.png)
 
 
 

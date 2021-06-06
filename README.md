@@ -22,7 +22,7 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 - 5 Star Vine Reviews: 241
 - 5 Star non-Vine Reviews: 52195
 
-https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/5StarReviews.png
+![alt text](https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/5StarReviews.png)
 
 
 
@@ -31,7 +31,7 @@ What percentage of Vine reviews were 5 stars? What percentage of non-Vine review
 - Percentage of Vine Reviews: 44%
 - Percentage of non-Vine Reviews: 46%
 
-https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/PercentReviews.png
+![alt text](https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/PercentReviews.png)
 
 
 # Summary: 

@@ -10,8 +10,8 @@ In this project I have picked a data set from amazon reviews regarding books and
 
 How many Vine reviews and non-Vine reviews were there?
 
-Total Vine Reviews: 543
-Total non-Vine Reviews: 112803
+- Total Vine Reviews: 543
+- Total non-Vine Reviews: 112803
 
 https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/TotalReviews.png
 
@@ -19,8 +19,8 @@ https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/TotalReviews.pn
 
 How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-5 Star Vine Reviews: 241
-5 Star non-Vine Reviews: 52195
+- 5 Star Vine Reviews: 241
+- 5 Star non-Vine Reviews: 52195
 
 https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/5StarReviews.png
 
@@ -28,8 +28,8 @@ https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/5StarReviews.pn
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-Percentage of Vine Reviews: 44%
-Percentage of non-Vine Reviews: 46%
+- Percentage of Vine Reviews: 44%
+- Percentage of non-Vine Reviews: 46%
 
 https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/PercentReviews.png
 

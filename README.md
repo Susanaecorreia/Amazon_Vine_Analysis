@@ -20,7 +20,7 @@ How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
 What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
-
+https://github.com/Susanaecorreia/Amazon_Vine_Analysis/blob/main/PercentReviews.png
 
 # Summary: 
 
